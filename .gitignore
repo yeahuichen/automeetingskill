@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.py[cod]
+*.class
+*.tmp
+*.mp3
+*.wav
+*.m4a
